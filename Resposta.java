@@ -84,6 +84,8 @@ public class Resposta {
 		// this.connection = getConnection();
 	}
 
+	// teste de commit
+
 	@SuppressWarnings("unused")
 	private List<Connection> connectionPool = new ArrayList<Connection>();
 	private br.com.credilink.Telefone telefoneOperadora;
