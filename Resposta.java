@@ -192,7 +192,8 @@ public class Resposta {
 	private String[] armazenados = new String[5];
 	private Boolean useStatus;
 	private Boolean menorDeIdade=false;
-	
+
+	//teste de commit 3
 
 	public String getForm_active_rede_social() {
 		return form_active_rede_social;
